@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/PRJ/Assignment/src/java/model/Student_Lession.java</file>
+            <file>file:/C:/PRJ/Assignment/web/view/home/homeInstructor.jsp</file>
+            <file>file:/C:/PRJ/Assignment/src/java/controller/HomeController.java</file>
+            <file>file:/C:/PRJ/Assignment/src/java/controller/LoginController.java</file>
+            <file>file:/C:/PRJ/Assignment/web/WEB-INF/web.xml</file>
+            <file>file:/C:/PRJ/Assignment/src/java/dal/InstructorDBContext.java</file>
+            <file>file:/C:/PRJ/Assignment/src/java/controller/ViewStudentController.java</file>
+            <file>file:/C:/PRJ/Assignment/src/java/dal/Student_LessionDBContext.java</file>
+            <file>file:/C:/PRJ/Assignment/web/view/home/schedule.jsp</file>
+            <file>file:/C:/PRJ/Assignment/src/java/dal/TimeSlotDBContext.java</file>
+            <file>file:/C:/PRJ/Assignment/web/view/home/edit-attendance.jsp</file>
+            <file>file:/C:/PRJ/Assignment/web/view/home/view-student.jsp</file>
+            <file>file:/C:/PRJ/Assignment/src/java/dal/GroupDBContext.java</file>
+            <file>file:/C:/PRJ/Assignment/web/view/home/attendanceStudent.jsp</file>
+            <file>file:/C:/PRJ/Assignment/src/java/model/Instructor.java</file>
+            <file>file:/C:/PRJ/Assignment/web/view/home/take-attendance.jsp</file>
+            <file>file:/C:/PRJ/Assignment/src/java/model/Campus.java</file>
+            <file>file:/C:/PRJ/Assignment/src/java/model/Lession.java</file>
+            <file>file:/C:/PRJ/Assignment/web/view/home/view-attendance.jsp</file>
+            <file>file:/C:/PRJ/Assignment/web/view/authentication/login.jsp</file>
+            <file>file:/C:/PRJ/Assignment/web/view/home/homeStudent.jsp</file>
+            <file>file:/C:/PRJ/Assignment/src/java/controller/ScheduleController.java</file>
+            <file>file:/C:/PRJ/Assignment/src/java/model/Group.java</file>
+            <file>file:/C:/PRJ/Assignment/src/java/controller/TakeAttendanceController.java</file>
+            <file>file:/C:/PRJ/Assignment/src/java/dal/RoomDBContext.java</file>
+            <file>file:/C:/PRJ/Assignment/web/view/home/chooseweek.jsp</file>
+            <file>file:/C:/PRJ/Assignment/src/java/dal/LessionDBContext.java</file>
+            <file>file:/C:/PRJ/Assignment/src/java/controller/EditAttendanceController.java</file>
+            <file>file:/C:/PRJ/Assignment/src/java/controller/ViewAttendanceController.java</file>
+            <file>file:/C:/PRJ/Assignment/src/java/dal/DBContext.java</file>
+            <file>file:/C:/PRJ/Assignment/src/java/dal/StudentDBContext.java</file>
+            <file>file:/C:/PRJ/Assignment/src/java/dal/CampusDBContext.java</file>
+            <file>file:/C:/PRJ/Assignment/src/java/model/Student.java</file>
+        </group>
+    </open-files>
+</project-private>
